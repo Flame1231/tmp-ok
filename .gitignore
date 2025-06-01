@@ -1,0 +1,9 @@
+.gradle
+.kotlin
+.idea/
+.gigaide
+
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+*.iml
